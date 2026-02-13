@@ -1,0 +1,7 @@
+Tools used in this Project
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- VS Code
